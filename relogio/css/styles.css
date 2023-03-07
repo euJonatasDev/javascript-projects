@@ -7,7 +7,15 @@ body {
     background-color: rgb(55, 89, 118);
 }
 
-.relogio {
+h3 {
+    font-family: Arial;
+    font-size: 20pt;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+main {
     background-color: white;
     width: 500px;
     height: 300px;
@@ -19,7 +27,7 @@ body {
     align-items: center;
 }
 
-.marcador {
+div {
     font-family: Arial;
     font-size: 30pt;
     font-weight: bold;
