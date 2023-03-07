@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    font-size: 15pt;
+}
+
+#container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: rgb(208, 207, 206);
+}
+
+span {
+    margin-bottom: 10px;
+}
+
+input {
+    width: 150px;
+    height: 40px;
+}
